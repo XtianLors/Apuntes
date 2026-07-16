@@ -1,0 +1,127 @@
+
+#+title: Example Org File
+#+author: CDLR
+#+date: July, 10 Friday, 2026
+
+
+WARNING: Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0xverylonghexnum>: Failed to establish a new connection: [Errno 101] La red es inaccesible')': /simple/pip/
+
+
+onnection: [Errno 101] La red es inaccesible')': /simple/matplotlib/
+^CERROR: Operation cancelled by user
+^CTraceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/usr/local/lib/python3.11/site-packages/pip/__main__.py", line 31, in <module>
+    sys.exit(_main())
+             ^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pip/_internal/cli/main.py", line 70, in main
+    return command.main(cmd_args)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pip/_internal/cli/base_command.py", line 101, in main
+    return self._main(args)
+           ^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pip/_internal/cli/base_command.py", line 216, in _main
+    self.handle_pip_version_check(options)
+  File "/usr/local/lib/python3.11/site-packages/pip/_internal/cli/req_command.py", line 190, in handle_pip_version_check
+    pip_self_version_check(session, options)
+  File "/usr/local/lib/python3.11/site-packages/pip/_internal/self_outdated_check.py", line 227, in pip_self_version_check
+    upgrade_prompt = _self_version_check_logic(
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pip/_internal/self_outdated_check.py", line 193, in _self_version_check_logic
+    remote_version_str = get_remote_version()
+                         ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pip/_internal/self_outdated_check.py", line 177, in _get_current_remote_pip_version
+    best_candidate = finder.find_best_candidate("pip").best_candidate
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pip/_internal/index/package_finder.py", line 889, in find_best_candidate
+    candidates = self.find_all_candidates(project_name)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pip/_internal/index/package_finder.py", line 830, in find_all_candidates
+    page_candidates = list(page_candidates_it)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pip/_internal/index/sources.py", line 134, in page_candidates
+    yield from self._candidates_from_page(self._link)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pip/_internal/index/package_finder.py", line 790, in process_project_url
+    index_response = self._link_collector.fetch_response(project_url)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pip/_internal/index/collector.py", line 461, in fetch_response
+    return _get_index_content(location, session=self.session)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pip/_internal/index/collector.py", line 364, in _get_index_content
+    resp = _get_simple_response(url, session=session)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pip/_internal/index/collector.py", line 135, in _get_simple_response
+    resp = session.get(
+           ^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pip/_vendor/requests/sessions.py", line 600, in get
+    return self.request("GET", url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pip/_internal/network/session.py", line 518, in request
+    return super().request(method, url, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pip/_vendor/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pip/_vendor/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pip/_vendor/cachecontrol/adapter.py", line 57, in send
+    resp = super(CacheControlAdapter, self).send(request, **kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pip/_vendor/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pip/_vendor/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+                       ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pip/_vendor/urllib3/connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "/usr/local/lib/python3.11/site-packages/pip/_vendor/urllib3/connectionpool.py", line 1042, in _validate_conn
+    conn.connect()
+  File "/usr/local/lib/python3.11/site-packages/pip/_vendor/urllib3/connection.py", line 358, in connect
+    self.sock = conn = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pip/_vendor/urllib3/connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/pip/_vendor/urllib3/util/connection.py", line 85, in create_connection
+    sock.connect(sa)
+KeyboardInterrupt
+
+
+
+https://download.freebsd.org/releases/amd64/amd64/ISO-IMAGES/15.1/
+
+https://pip.pypa.io/en/stable/development/getting-started/
+https://pip.pypa.io/en/stable/development/contributing/
+https://pip.pypa.io/en/stable/development/ci/
+https://pip.pypa.io/en/stable/development/issue-triage/
+
+https://packaging.python.org/en/latest/guides/hosting-your-own-index/
+
+
+
+
+
+https://docs.freebsd.org/en/books/handbook/network/#:~:text=7.3.1.%20Configuring%20Static%20IPv4%20Address
+https://docs.freebsd.org/en/books/handbook/advanced-networking/#advanced-networking
+https://man.freebsd.org/cgi/man.cgi?query=alc&sektion=4&format=html
+https://man.freebsd.org/cgi/man.cgi?query=arp&sektion=4&apropos=0&manpath=FreeBSD+15.1-RELEASE+and+Ports.quarterly
+https://man.freebsd.org/cgi/man.cgi?query=lo&sektion=4&format=html
+https://www.freebsd.org/where/#download
+is x86_64 the same as amd64?
+https://ubuntu.com/desktop/docs/en/latest/
+
+https://www.iana.org/
+https://www.juniper.net/us/en/products/routers.html
+https://www.siemens.com/es-mx/products/scalance/m-industrial-routers/
+pip package manager repository
+
+https://firefox-source-docs.mozilla.org/overview/gecko.html
+https://docs.python.org/3/library/urllib.error.html#module-urllib.error
+https://docs.python.org/3/library/os.html#os.fork
+https://docs.python.org/3/library/urllib.request.html#urllib.request.getproxies
+https://docs.python.org/3/library/urllib.request.html#module-urllib.request
+https://docs.python.org/3/library/zipapp.html

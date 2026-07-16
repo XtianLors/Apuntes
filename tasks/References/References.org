@@ -125,3 +125,29 @@ https://docs.python.org/3/library/os.html#os.fork
 https://docs.python.org/3/library/urllib.request.html#urllib.request.getproxies
 https://docs.python.org/3/library/urllib.request.html#module-urllib.request
 https://docs.python.org/3/library/zipapp.html
+
+
+man x509
+
+RuntimeError                              Traceback (most recent call last)
+Cell In[4], line 1
+----> 1 training_data = datasets.FashionMNIST(
+      2     root="data",
+      3     train=True,
+      4     download=True,
+
+File /usr/local/lib/python3.11/site-packages/torchvision/datasets/mnist.py:100, in MNIST.__init__(self, root, train, transform, target_transform, download)
+     97     return
+     99 if download:
+--> 100     self.download()
+    102 if not self._check_exists():
+    103     raise RuntimeError("Dataset not found. You can use download=True to download it")
+
+File /usr/local/lib/python3.11/site-packages/torchvision/datasets/mnist.py:197, in MNIST.download(self)
+    195 for mirror, err in zip(self.mirrors, errors):
+    196     s += f"Tried {mirror}, got:\n{str(err)}\n"
+--> 197 raise RuntimeError(s)
+
+RuntimeError: Error downloading train-images-idx3-ubyte.gz:
+Tried http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/, got:
+HTTP Error 500: Internal Server Error

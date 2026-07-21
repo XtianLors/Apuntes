@@ -151,3 +151,7 @@ File /usr/local/lib/python3.11/site-packages/torchvision/datasets/mnist.py:197, 
 RuntimeError: Error downloading train-images-idx3-ubyte.gz:
 Tried http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/, got:
 HTTP Error 500: Internal Server Error
+
+https://www.qemu.org/docs/master/system/secrets.html
+
+

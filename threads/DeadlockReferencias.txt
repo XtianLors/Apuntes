@@ -1,0 +1,77 @@
+James W. Havender "Avoiding deadlock in multitasking systems". IBM Systems Journal
+
+Reporte de investigación
+
+Deadlock (Interbloqueo), Programación Concurrente
+https://www.youtube.com/watch?v=UwJ1wFxlCRk
+
+https://docs.oracle.com/javase/tutorial/collections/streams/parallelism.html
+
+https://www.geeksforgeeks.org/deadlock-in-java-multithreading/
+
+10 years of embedded coding in 10 minutes
+https://www.youtube.com/watch?v=i2ypCsB93gM
+
+https://github.com/KristaBalling?page=4&tab=repositories
+https://github.com/KristaBalling/RyanAndMonicaThreadIssues/tree/master
+
+https://github.com/troydm/fpj
+
+https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/
+
+https://ocw.mit.edu/courses/res-6-010-electronic-feedback-systems-spring-2013/
+https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/pages/lecture-notes-and-readings/
+
+SO - Algoritmo del banquero
+https://www.youtube.com/watch?v=BgbyDnznzls
+
+https://www.instagram.com/p/C5jIo-Gufta/
+
+https://instagram.com/p/C6ABDzYxMwm/
+
+https://www.instagram.com/p/C7jk10Hg9If/
+
+https://www.instagram.com/p/C7o4bJ3N1an/	
+
+https://www.instagram.com/p/C5saCVJsSGn/
+
+https://instagram.com/p/C7lpH3-tiVg/
+
+QuantIntuition
+Introduction to Quant Trading - Video Course
+https://www.youtube.com/watch?v=_7AEIrDhaf8
+
+Sistemas Operativos - Jerarquía y estados de un proceso - Jose María Cecilia
+UCAM Universidad Católica de Murcia
+https://www.youtube.com/watch?v=b64aQFORunM
+
+Programación concurrente
+https://antares.sip.ucm.es/luis/Java06-07/threads.pdf
+https://theswissbay.ch/pdf/Gentoomen%20Library/Programming/Java/O%27Reilly%20Java%20Threads%20%282nd%20Edition%29.pdf
+https://github.com/shshankar1/ebooks/blob/master/O'Reilly%20Java%20Threads%20(2nd%20Edition).pdf
+https://www.youtube.com/watch?v=BgbyDnznzls
+
+Programas Grandes:
+https://cubichilazaro.wordpress.com/wp-content/uploads/2015/11/ant.pdf
+https://github.com/ohari5336/book-1/blob/master/%5BJAVA%5D%5BJava%20Development%20With%20Ant%5D.pdf
+https://www.youtube.com/watch?v=dRCVPFe30WU&list=PLw8RQJQ8K1ySGcb3ZP66peK4Za0LKf728&index=1
+
+
+https://www.cs.toronto.edu/~hesam/Teaching/CSC207-Summer-2011/lectures/w11/Threads.pdf
+
+https://github.com/ohari5336/book-1/blob/master/%5BJAVA%5D%5BJava%20Development%20With%20Ant%5D.pdf
+C:\Users\crisd\Downloads\EscuelaCD\ProgramaciónConcurrente\Unidad2\Act3
+
+
+CARLOS GRANADOS MARTIN DEL CAMPO
+Carlos Granados Martín Del Campo
+
+Personaje histórico favorito
+Filias99
+
+
+Administración avanzada de GNU/Linux
+U
+Formación de Posgrado
+© Fundació per a la Universitat Oberta de Catalunya
+

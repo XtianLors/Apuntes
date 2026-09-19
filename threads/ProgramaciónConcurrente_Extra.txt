@@ -1,0 +1,15 @@
+
+https://es.khanacademy.org/computing/ap-computer-science-principles/algorithms-101/x2d2f703b37b450a3:parallel-and-distributed-computing/a/parallel-computing
+
+
+https://ocw.mit.edu/courses/6-189-multicore-programming-primer-january-iap-2007/pages/syllabus/
+
+https://ocw.mit.edu/courses/6-035-computer-language-engineering-spring-2010/
+https://ocw.mit.edu/courses/6-820-fundamentals-of-program-analysis-fall-2015/pages/syllabus/
+
+https://math.dartmouth.edu/~m22f18/Downloads/Docs/Proofs/Writing%20Mathematical%20Proofs.pdf
+https://archive.org/details/distributedalgor0000lync/page/n7/mode/2up
+https://dept.math.lsa.umich.edu/~jchw/PrimerOnProof.pdf
+https://math.berkeley.edu/~hutching/teach/proofs.pdf
+https://www.math.purdue.edu/~price79/SU14/proofsintro.pdf
+https://ocw.mit.edu/courses/6-852j-distributed-algorithms-fall-2009/pages/syllabus/

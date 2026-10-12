@@ -1,0 +1,29 @@
+#include <stdio.h>
+
+#define ANSI_COLOR_RED     "\x1b[31m"
+#define ANSI_COLOR_GREEN   "\x1b[32m"
+#define ANSI_COLOR_YELLOW  "\x1b[33m"
+#define ANSI_COLOR_ORANGE  "\x1b[5m"
+#define ANSI_COLOR_MAGENTA "\x1b[35m"
+#define ANSI_COLOR_CYAN    "\x1b[36m"
+#define ANSI_COLOR_PINK    "\x1b[89m"
+#define ANSI_COLOR_RESET   "\x1b[0m"
+
+int opcioon;
+
+
+int main(int argc, char const *argv[]){
+do
+{
+  printf(ANSI_COLOR_RED     "\t\t\tFile Begin\n"     ANSI_COLOR_RESET "\n");
+  printf(ANSI_COLOR_GREEN     "\t1. Opción 1\n"     ANSI_COLOR_RESET "\n");
+  printf(ANSI_COLOR_ORANGE    "\t2. Opción 2\n"     ANSI_COLOR_RESET "\n");
+  printf(ANSI_COLOR_MAGENTA     "\t3. Opción 3\n"     ANSI_COLOR_RESET "\n");
+  printf(ANSI_COLOR_CYAN     "\t4. Opción 4\n"     ANSI_COLOR_RESET "\n");
+  printf(ANSI_COLOR_PINK     "\t5. Opción 5\n"     ANSI_COLOR_RESET "\n");
+
+  printf("Porfavor elige una opción: ");
+  scanf("%d", &opcioon);
+}
+while(argc != EOF);
+return 0;

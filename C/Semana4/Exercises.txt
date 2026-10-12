@@ -1,0 +1,26 @@
+Ejercicio
+
+> Arreglos []
+> Punteros []
+Construir un programa que admita cadenas y permita al usuario seleccionar si desea ver la cadena en mayúsculas o minúsculas.
+
+Realiza un reporte en el que propongas la solución al ejercicio propuesto programando en C o C++
+Guarda el reporte en una carpeta .ZIP donde integres el archivo ejecutable y el código fuente.
+Nombra y guarda el archivo en formato .ZIP con el número de la Actividad y las iniciales de tu nombre de la siguiente manera: A#_ADZ.zip
+Sube el archivo .ZIP al foro como evidencia de tu actividad necesaria para poder participar en el Foro.
+
+¿Cuáles son las funciones básicas para la definición de una cadena de carateres?
+   Funciones de caracteres básicas para programación como tolower(), topupper(), ambas 
+sirven para editar mayúsculas de minúsculas. Funciones de operaciones booleanas como islower(), 
+isupper(), isalpha(), isalnum(). Otra funciones por ejemplo de la biblioteca de cadenas
+string.h como strlen() para el tamañano de una cadena y demás funciones son básicas para la manipulación,
+análisis de cadenas de caracteres.
+
+¿En qué consisten los apuntadores?
+   Los apuntadores consisten en una variable que guarda una dirección a una variable y
+el operador * que indica "moverse a la dirección indicada".
+
+¿En qué otras aplicaciones son útiles las cadenas de caracteres? ¿Cuáles son las ventajas de su utilización en la programación estructurada?
+   Las cadenas de caracteres pueden ser usadas en NLP, en química para fórmulas químicas y en diversas aplicaciones de sistemas expertos
+que reciban una instrucción y devuelvan un resultado.
+

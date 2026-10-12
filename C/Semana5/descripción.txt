@@ -1,0 +1,202 @@
+Caso 1. El estudiante se encuentra
+Estudiante encontrado sus datos son:
+
+Buscar: "##$%
+
+Devuelve
+______________________________________
+Matrícula del estudiante: 012345
+Nombre: Juan
+Apellido paterno: Pérez
+Apellido materno: Pérez
+Carrera: Ingeniería en Sistemas
+Correo electrónico: juanperez@gmail.com
+Teléfono :0123456789
+_______________________________________
+
+Buscar: !"#$#!"
+
+Devuelve:
+El estudiante NO se encuentra.
+-> Regresar al Menú principal.
+________________________________________
+Menú principal
+1. Alta de estudiantes
+2. Baja de estudiantes
+3. Modificaciones de estudiantes
+4. Mostrar todos
+5. Buscar estudiante
+6. Salir
+Ingrese su opción:
+______________________________________
+
+Función Modifica:
+dentro de la función se debe de pedir el identificador del elemento que se desea buscar y mostrar el registro buscado en caso de que se encuentre o mandar el mensaje registro no encontrado en caso de que no se encuentre y a continuación mostrar el menú principal siguiendo con nuestro ejemplo de estudiantes sería algo como se muestra a continuación:
+Ej.
+Ingrese la matricula del estudiante a modificar: 012345
+
+Note que hay dos casos, a) caso 1 el estudiante se encuentra, b) caso 2 el estudiante no se encuentra
+Caso 1. El estudiante se encuentra
+Estudiante encontrado sus datos son:
+Matricula del estudiante: 012345
+Nombre: Juan
+Apellido paterno: Pérez
+Apellido materno: Pérez
+Carrera: Ingeniería en Sistemas
+Correo electrónico: juanperez@gmail.com
+Teléfono :0123456789
+¿Estás seguro de que deseas modificar al estudiante? 1. Para si / 2. Para no
+
+En caso de que se confirme con 1 la modificación debe de llevarse a cabo para lo cual debe de pedirse nuevamente todos los datos y guardarse en la misma posición en el cual fue encontrado, una vez realizada la modificación se debe de mandar un mensaje indicando que ha sido realizada satisfactoriamente
+posteriormente se debe de mostrar el menú principal, siguiendo con nuestro ejemplo catálogo de estudiantes quedaría a como se muestra a continuación:
+Ingrese su selección 1
+
+Ej.
+
+Ingrese la matricula del estudiante: 012345
+Ingrese el nombre: Juan
+Ingrese al apellido paterno: Pérez
+Ingrese el apellido materno: Pérez
+Ingrese la carrera: Ingeniería en Sistemas
+Ingrese el correo electrónico: juanperez@gmail.com
+Ingrese el teléfono :0123456789
+Estudiante modificado correctamente
+
+3.3. Mostrar datos encontrados
+• Definir la función mostrar
+esta función debe de hacer un recorrido de todo el arreglo de estructuras e ir mostrando los elementos conforme se avanza
+
+Programar
+Matricula del estudiante: 012345
+Nombre: Juan
+Apellido paterno: Pérez
+Apellido materno: Pérez
+Carrera: Ingeniería en Sistemas
+Correo electrónico: juanperez@gmail.com
+Teléfono :0123456789
+Matricula del estudiante: 112233
+
+Nombre: Pedro
+Apellido paterno: Santana
+Apellido materno: Jiménez
+Carrera: Ingeniería en Sistemas
+Correo electrónico: pedro@gmail.com
+Teléfono :0000011111
+• Continuar para todos los elementos del catálogo de estudiantes.
+
+Menú principal
+1. Alta de estudiantes
+2. Baja de estudiantes
+3. Modificaciones de estudiantes
+4. Mostrar todos
+5. Buscar estudiante
+6. Salir
+Ingrese su opción:
+• Darles funcionalidad a las opciones 3,4 y 5 del menú:
+Menú principal
+1. Alta de estudiantes
+2. Baja de estudiantes
+3. Modificaciones de estudiantes
+4. Mostrar todos
+5. Buscar estudiante
+6. Salir
+Ingrese su opción:
+
+2. Elabora tu reporte en un procesador de textos en el que incorpores:
+• Capturas de pantalla del proceso de modificaciones
+Capturas de pantalla del proceso de mostrar todos los elementos
+• Capturas de pantalla del proceso de búsquedas
+3. Genera una carpeta .ZIP donde integres tu reporte y tu programa que realizaste en Online GDB o Visual Studio, el proyecto debe incluir el archivo ejecutable, así como el código fuente.
+
+
+Integra en un documento el desarrollo de lo solicitado para esta tercera etapa del Proyecto integrador para ello considera los siguientes criterios (estructura y formato) de entrega:
+• Portada: universidad, asignatura, título del proyecto, nombre(s) completo(s) del/los integrante(s), ciudad y fecha
+• Introducción: breve descripción del trabajo
+• Desarrollo: puntos solicitados + integración de las etapas 1 y 2 del Proyecto integrador
+• Conclusiones
+• Fuentes documentales consultadas referenciadas en estilo APA
+• Texto justificado, interlineado 1.5
+• Fuente Arial 11 o 12 puntos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

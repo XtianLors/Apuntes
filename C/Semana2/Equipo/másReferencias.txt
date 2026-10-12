@@ -1,0 +1,15 @@
+https://clcode.net/articles/ANSI.md
+https://stackoverflow.com/questions/33847993/how-to-create-an-array-of-strings-or-chars-in-c
+https://learn.microsoft.com/es-es/cpp/c-language/c-enumeration-declarations?view=msvc-170
+https://stackoverflow.com/questions/4358728/end-of-file-eof-in-c
+http://ordenador.wingwit.com/Programacion/cc-programming/85478.html
+https://learn.microsoft.com/es-es/cpp/c-language/do-while-statement-c?view=msvc-170
+https://stackoverflow.com/questions/8765938/colorful-text-using-printf-in-c
+https://stackoverflow.com/questions/8765938/colorful-text-using-printf-in-c
+https://stackoverflow.com/questions/3219393/stdlib-and-colored-output-in-c
+https://www.geeksforgeeks.org/c-programming-examples/
+https://pythonistaplanet.com/applications-of-c-language/
+https://www.rankia.mx/acciones/indice-precios-cotizaciones-ipc/blog/2730284-que-hora-abre-cierra-bolsa-mexicana-valores
+https://www.interviewbit.com/blog/applications-of-c-programming-language/
+https://normas-apa.org/referencias/citar-un-blog/
+https://parzibyte.me/blog/2021/08/23/instalar-gcc-msys2-compilador-c-cpp/

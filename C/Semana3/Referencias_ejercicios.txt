@@ -1,0 +1,15 @@
+https://www.geeksforgeeks.org/c-functions/
+https://www.geeksforgeeks.org/c-function-argument-return-values/
+
+https://stackoverflow.com/questions/9185429/default-parameters-in-c#:~:text=There%20are%20no%20default%20parameters%20in%20C.%20One,recommend%20it%20unless%20you%20really%20need%20default%20parameters.
+https://stackoverflow.com/questions/9185429/default-parameters-in-c
+
+https://stackoverflow.com/questions/8440816/message-warning-implicit-declaration-of-function
+https://stackoverflow.com/questions/65085914/void-vs-int-in-function-in-c
+https://stackoverflow.com/questions/11656532/returning-an-array-using-c
+https://parzibyte.me/blog/2020/07/09/solucion-error-for-loop-initial-declarations-are-only-allowed-c99-mode/
+https://qastack.mx/programming/24881/how-do-i-fix-for-loop-initial-declaration-used-outside-c99-mode-gcc-error
+https://stackoverflow.com/questions/14690142/gcc-error-for-loop-initial-declaration-used-outside-c99-mode
+
+
+

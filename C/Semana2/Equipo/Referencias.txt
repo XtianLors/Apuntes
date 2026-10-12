@@ -1,0 +1,10 @@
+El objetivo del Proyecto integrador es emplear las bases de lógica computacional que refleje la aplicación del paradigma de la programación estructurada, a partir de la construcción de un catálogo que permita las operaciones de altas, bajas, modificaciones y consulta.
+Para desarrollar este proyecto, se toman como referente actividades elaboradas previamente, lo que garantiza la transversalidad de los contenidos revisados para fortalecer el desarrollo de competencias. El proyecto se realizará en 3 etapas:
+Etapa 1. Definición del catálogo y esquema de operación
+Etapa 2. Escritura de código para operaciones de altas y bajas
+Etapa 3. Escritura de código para operaciones de modificaciones y búsquedas
+
+
+Catálogo de estudiantes:
+https://github.com/sikderemran/money_exchanger_using_C_language_with_GUI/blob/master/money_exchanger.C
+https://es.stackoverflow.com/questions/121383/animacion-en-c-con-graphics-h

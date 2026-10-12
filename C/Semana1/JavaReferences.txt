@@ -1,0 +1,20 @@
+https://www.forex.academy/ichimoku-kinko-hyo-introduction-and-history/
+https://www.asktraders.com/learn-to-trade/trading-strategies/ichimoku/
+https://www.ichimoku.eu/en/analysis
+
+https://docs.oracle.com/javase/tutorial/java/generics/index.html
+
+https://docs.oracle.com/javase/tutorial/java/package/usepkgs.html
+https://www.youtube.com/results?search_query=nested+classes+java
+
+https://www.w3schools.com/java/java_packages.asp
+https://stackoverflow.com/questions/9729197/how-to-get-current-class-name-including-package-name-in-java#:~:text=use%20this.getClass%20%28%29.getName%20%28%29%20to%20get%20packageName.className%20and,this.getClass%20%28%29.getSimpleName%20%28%29%20to%20get%20only%20class%20name
+https://www.baeldung.com/java-assert
+
+Java Swing
+
+
+https://link.springer.com/book/10.1007/978-1-4612-4470-7?utm_campaign=CONR_BOOKS_ECOM_US_PHSS_ALWYS_SL&source=shoppingads&locale=en-us&&utm_medium=display&utm_source=criteo&utm_campaign=CONR_BOOKS_ECOM_US_PHSS_ALWYS_SL&utm_content=us_banner_29012020&cto_pld=vtXYoidOAQACbCTRRrOqyA
+https://link.springer.com/book/10.1007/b97469?utm_campaign=CONR_BOOKS_ECOM_US_PHSS_ALWYS_SL&source=shoppingads&locale=en-us&&utm_medium=display&utm_source=criteo&utm_campaign=CONR_BOOKS_ECOM_US_PHSS_ALWYS_SL&utm_content=us_banner_29012020&cto_pld=JLk56idOAQBBlBAnhP4U8A
+https://link.springer.com/book/10.1007/978-3-030-80627-9?utm_campaign=CONR_BOOKS_ECOM_US_PHSS_ALWYS_SL&source=shoppingads&locale=en-us&&utm_medium=display&utm_source=criteo&utm_campaign=CONR_BOOKS_ECOM_US_PHSS_ALWYS_SL&utm_content=us_banner_29012020&cto_pld=GrhpaidOAQD6vzSVv5f6GA
+

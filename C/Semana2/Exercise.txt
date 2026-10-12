@@ -1,0 +1,24 @@
+Actividad 3. Ejercicios
+Actividad de aprendizaje Haga clic para ver más opciones
+Instrucciones:
+
+Se sugiere trabajar de manera individual.
+
+1. Con base en el material consultado en la unidad, elabora los 
+siguientes ejercicios aplicando estructuras selectivas y repetitivas utilizando 
+la programación concurrente, para ello descarga el archivo que se proporciona a 
+continuación:
+
+NOMBRE Haga clic para ver más opciones
+
+Rúbrica de evaluación Haga clic para ver más opciones  
+Presiona este enlace para revisar el instrumento de evaluación de la actividad. 
+Haga clic para ver más opciones
+2. Guarda el archivo en formato .pdf con el número de la Actividad y las iniciales 
+de tu nombre de la siguiente manera: A#_ADZ.pdf
+
+3. Para enviar la actividad al tutor:
+Presiona el título de la Actividad.
+Presiona el botón «Examinar equipo».
+Localiza la ruta donde lo guardaste y elige el archivo para adjuntarlo.
+Por último, oprime el botón «Enviar».

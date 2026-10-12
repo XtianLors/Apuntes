@@ -1,0 +1,89 @@
+https://githubfieldday.com/mexico2023/
+
+https://www.youtube.com/watch?v=bTaXWTd8q8Y
+
+https://mcuoneclipse.com/2016/11/01/getting-the-memory-range-of-sections-with-gnu-linker-files/
+https://mcuoneclipse.com/2012/11/01/defining-variables-at-absolute-addresses-with-gcc/
+https://www.geeksforgeeks.org/linker/
+https://es.wikipedia.org/wiki/Enlazador
+https://en.wikipedia.org/wiki/Terminal_emulator
+https://en.wikipedia.org/wiki/Windows_Terminal
+https://github.com/microsoft/cascadia-code
+
+
+
+¿Cuantas  calificaciones desea ingresar?  7
+Ingresa la calificación 1:   6
+Ingresa la calificación 2:   3
+Ingresa la calificación 3:   4
+Ingresa la calificación 4:   7
+Ingresa la calificación 5:   5
+Ingresa la calificación 6:   4
+Ingresa la calificación 7:   8
+
+Ejemplo de salida
+El promedio es:  5.28
+
+
+Realizar un programa que permita guardar en un tipo struct los datos concernientes a un estudiante, los datos de interés son:
+
+•	Matricula
+•	Nombre
+•	Carrera 
+•	Promedio 
+•	Dirección
+
+Se debe de realizar las siguientes funciones:
+a.	Captura de los datos
+b.	Mostrar los datos
+c.	La función main que llame de la forma correcta a las funciones captura y mostrar.
+
+
+#include <stdio.h>
+
+// Definición de la estructura para el estudiante
+struct Estudiante {
+    int matricula;
+    char nombre[50];
+    char carrera[50];
+    float promedio;
+    char direccion[100];
+};
+
+// Función para capturar los datos del estudiante
+void capturarDatos(struct Estudiante *estudiante) {
+    printf("Ingrese la matrícula: ");
+    scanf("%d", &(estudiante->matricula));
+
+    printf("Ingrese el nombre: ");
+    scanf(" %[^\n]", estudiante->nombre);
+
+    printf("Ingrese la carrera: ");
+    scanf(" %[^\n]", estudiante->carrera);
+
+    printf("Ingrese el promedio: ");
+    scanf("%f", &(estudiante->promedio));
+
+    printf("Ingrese la dirección: ");
+    scanf(" %[^\n]", estudiante->direccion);
+}
+
+// Función para mostrar los datos del estudiante
+void mostrarDatos(struct Estudiante estudiante) {
+    printf("\nDatos del estudiante:\n");
+    printf("Matrícula: %d\n", estudiante.matricula);
+    printf("Nombre: %s\n", estudiante.nombre);
+    printf("Carrera: %s\n", estudiante.carrera);
+    printf("Promedio: %.2f\n", estudiante.promedio);
+    printf("Dirección: %s\n", estudiante.direccion);
+}
+
+int main() {
+    struct Estudiante estudiante;
+
+    capturarDatos(&estudiante);
+    mostrarDatos(estudiante);
+
+    return 0;
+}
+

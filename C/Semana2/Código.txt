@@ -1,0 +1,94 @@
+#include <stdio.h>
+
+int main(void){
+        int number_read, determiner;
+
+        printf("Ingrese el número a evaluar: ");
+        scanf("%d", &number_read);
+        determiner = number_read % 2;
+
+        if(determiner == 0){
+                printf("El número %d es par. \n", number_read);
+        }else{
+                printf("El número %d no es par.\n", number_read);
+        }
+
+        return 0;
+}
+
+Ingrese su calificación:
+
+
+#include <stdio.h>
+
+int main(void){
+
+
+        //double cali;
+        int asked_cali;
+        printf("Ingrese su calificación: ");
+        scanf("%d", &asked_cali);
+        //cali = (double)asked_cali;
+
+        if( asked_cali > 10){
+                printf("Error\n");
+        }else if( asked_cali < 0){
+                printf("Error\n");
+        }else{
+                switch(asked_cali){
+                        case 10:
+                                printf("Excelente\n");
+                                break;
+                        case 9:
+                                printf("Muy bien\n");
+                                break;
+                        case 8:
+                                printf("Bien\n");
+                                break;
+                        case 7:
+ 				printf("Regular\n");
+                                break;
+                        default:
+                                printf("No acreditado\n");
+                }
+        }
+        return 0;
+}
+
+RGB: 56, 147, 155
+
+
+#include <stdio.h>
+
+int main(void){
+
+        int can_art, precio, cantidad, total, counter=1;
+
+        printf("Ingrese la cantidad de artículos: ");
+        scanf("%d", &can_art);
+
+        while(counter < can_art){
+
+                printf("Artículo %d cantidad ", counter);
+                scanf("%d", &cantidad);
+                printf("Artículo %d precio ", counter);
+                scanf("%d", &precio);
+                counter++;
+
+                total = total + cantidad * precio;
+        }
+        printf("Total a pagar: %d\n", total);
+
+        return 0;
+}
+
+
+2. 
+A partir de los recursos revisados acerca de estructuras selectivas, resuelve el siguiente problema usando lenguaje C:
+Nota. Para resolver este programa se sugiere haber revisado los siguientes videos de la serie de video tutoriales disponibles en el contenedor interactivo de videos:
+­	Video 3. Variables
+­	Video 7. Operaciones de relación
+­	Video 12. Sentencias de control (if else)
+
+Jose Luis Hernandez Maldonado
+

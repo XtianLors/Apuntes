@@ -1,0 +1,29 @@
+Regresar un valor en varias formas
+
+Estructura de datos:
+
+Se almacenan enteros, flotantes, 
+
+#include <string.h>
+#include <ctype.h>
+
+struct contacto{
+	char nombre[];
+	char direccioon[80];
+	int edad;
+	long teleefono[];
+
+};
+
+typedef struct contacto contacto_t;
+
+int main(void){
+
+	contacto_t c1;
+	printf("");
+	fflush(stdin);
+	gets(c1.nombre);
+
+return 0;
+
+}

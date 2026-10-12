@@ -1,0 +1,25 @@
+Cuahtemoc Leon Puertos
+Lógica y Prog Estructurada
+
+
+Act1
+
+1. Conceptos de razonamiento, pensamiento, pensamiento crítico, lógica, lógica de programación
+Conceptos de algoritmos, tipos de algoritmos y pseudocódigo.
+Metodología (pasos) para la resolución de problemas por computadora (explicar cada uno brevemente)
+Estructuras de la programación y su división.
+
+2. Redacta una conclusión en la que describas la importancia de la utilización de la lógica de programación aplicada a la solución de problemas por computadora.
+
+3. Elabora tu actividad en un procesador de textos.
+
+
+
+https://archive.org/details/algorithmsdatast0000bowm/page/n7/mode/2up
+https://www.cs.princeton.edu/courses/archive/spr11/cos217/lectures/08DsAlg.pdf
+https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/mit6_006s20_lec2/
+https://www.youtube.com/watch?v=8hly31xKli0&embeds_referring_euri=https%3A%2F%2Fwww.bing.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.bing.com&source_ve_path=MzY4NDIsMjM4NTE&feature=emb_title&themeRefresh=1
+https://link.springer.com/book/10.1007/978-3-540-77978-0
+https://pdfroom.com/books/data-structures-and-algorithms-in-java/zk2AqjlX2PJ
+
+

@@ -1,0 +1,25 @@
+Algorithms:
+
+Efficency (Time management)
+Complexity ()
+BigO' Notation
+Specify algorithms
+Design of algorithms
+
+Sorting algorithms
+Insertion Sort
+Merge Sort "Divide and Conquere"
+Although the time each requires increases
+with the value of n, the rate of increase differs between the two algorithms.
+Determine running time of an algorithm.
+
+Asymptotic Notation
+Solving Recurrences: this helps describing the running time of recursive algorithms.
+Techniques for solving recurrences:
+	> Master method
+
+https://www.youtube.com/watch?v=1hpc70_OoAg
+https://www.youtube.com/watch?v=FYy9jtDudLo
+
+
+
